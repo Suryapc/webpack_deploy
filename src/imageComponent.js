@@ -1,6 +1,6 @@
-//   import image from './Lav.jpg';
+  import image from './Lav.jpeg';
 
-// const img = document.createElement('img');
-// img.src =img;
+const img = document.createElement('img');
+img.src =image;
 
-// document.body.appendChild(img);
+document.body.appendChild(img);
